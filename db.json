@@ -1,0 +1,109 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 2,
+      "name": "Le hotel",
+      "prix": 350,
+      "description": "Quisque mollis vestibulum quam, ut dictum diam placerat nec. Nunc non posuere sem. Praesent non placerat nulla, non tincidunt quam.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/even-hotels-eugene-5405616297-4x3"
+    },
+    {
+      "id": 3,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 4,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 5,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 6,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 7,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 8,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 9,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 10,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 11,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 12,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 13,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 14,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    },
+    {
+      "id": 15,
+      "name": "Hotel de la ville",
+      "prix": 500,
+      "description": "Vivamus in rutrum mi, ut feugiat justo. Sed massa libero, sodales at est et, blandit maximus leo. Cras vel eros.",
+      "photo": "https://ihg.scene7.com/is/image/ihg/holiday-inn-kemah-3967993154-4x3"
+    }
+  ]
+}
